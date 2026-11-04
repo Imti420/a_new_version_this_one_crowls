@@ -1,0 +1,4 @@
+{
+  "installCommand": "npm install --omit=dev --no-audit --no-fund",
+  "ignoreCommand": "sh scripts/vercel-ignore.sh"
+}

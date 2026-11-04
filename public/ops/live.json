@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-04T16:36:30.420Z",
+  "status": "running",
+  "runner": "manual-script",
+  "intervalMinutes": 45,
+  "cycleId": null,
+  "startedAt": "2026-11-04T16:36:30.420Z",
+  "completedAt": null,
+  "durationMs": null,
+  "note": "Discovery cycle is in progress. No admission date is published. A failure is not recorded as unchanged.",
+  "counts": {
+    "universities": 84,
+    "systems": 3,
+    "sources": 0,
+    "checked": 0,
+    "reached": 0,
+    "unchanged": 0,
+    "failed": 0,
+    "skipped": 0,
+    "notChecked": 0,
+    "newDocuments": 0,
+    "newPages": 0
+  },
+  "events": [
+    {
+      "at": "2026-11-04T16:36:30.420Z",
+      "level": "info",
+      "type": "cycle_start",
+      "universityId": null,
+      "sourceId": null,
+      "url": null,
+      "message": "Starting discovery cycle. No date will be published."
+    }
+  ],
+  "sources": [],
+  "discoveries": []
+}

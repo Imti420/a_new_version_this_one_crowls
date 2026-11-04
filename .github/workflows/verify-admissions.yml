@@ -1,0 +1,43 @@
+name: Verify admission sources
+
+# Schedule and manual runs only. A push trigger would commit the report and
+# start this workflow again, forever. Vercel may deploy the committed report;
+# that deploy does not re-enter this workflow.
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: verify-admissions
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check official sources
+        run: node --experimental-strip-types scripts/verify-sources.ts
+
+      - name: Publish the report
+        run: |
+          git config user.name "admission26-monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/verification data/verification src/data/source-manifest.ts
+          if git diff --cached --quiet; then
+            echo "No source changes to publish."
+            exit 0
+          fi
+          git commit -m "chore: refresh admission verification report [skip ci]"
+          git push

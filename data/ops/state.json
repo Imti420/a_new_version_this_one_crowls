@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "intervalMinutes": 45,
+  "lastStartedAt": "2026-11-04T16:36:30.420Z",
+  "lastCompletedAt": null,
+  "lastStatus": "running",
+  "cycleId": null,
+  "cursor": 0,
+  "note": "Discovery cycle is in progress. A crash here is not a successful scan."
+}

@@ -1,0 +1,49 @@
+name: Discover admission sources
+
+# Wakes every 15 minutes. The script itself waits until 45 minutes after the
+# last finished cycle, then exits without opening websites. GitHub may start
+# scheduled runs late. This workflow does not run on push, so publishing the
+# log cannot retrigger it.
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Run even if a cycle finished less than 45 minutes ago"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discover-admissions
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Discover official admission links
+        run: node --experimental-strip-types scripts/crawl-admissions.ts ${{ inputs.force == true && '--force' || '' }}
+
+      - name: Publish the discovery log
+        run: |
+          git config user.name "admission26-discovery"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ops public/ops
+          if git diff --cached --quiet; then
+            echo "No discovery changes to publish."
+            exit 0
+          fi
+          git commit -m "chore: refresh admission discovery log [skip ci]"
+          git push
