@@ -2234,5 +2234,18 @@
     "universityId": "stamford",
     "shortName": "SUB",
     "downloaded": false
+  },
+  {
+    "url": "https://prstu.ac.bd/notice_document/Circular_20261104_v01.pdf",
+    "foundOn": "https://www.prstu.ac.bd/",
+    "foundAt": "2026-11-05T17:43:41.028Z",
+    "title": "বিশ্ববিদ্যালয়ে বিভিন্ন পদে নিয়োগ বিজ্ঞপ্তি (০৪-১১-২০২৬)",
+    "kind": "pdf",
+    "score": 7,
+    "sameSite": true,
+    "id": "prstu:https://prstu.ac.bd/notice_document/Circular_20261104_v01.pdf",
+    "universityId": "prstu",
+    "shortName": "PRSTU",
+    "downloaded": false
   }
 ]
