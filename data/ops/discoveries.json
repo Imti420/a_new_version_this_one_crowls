@@ -2247,5 +2247,18 @@
     "universityId": "prstu",
     "shortName": "PRSTU",
     "downloaded": false
+  },
+  {
+    "url": "https://www.bmu.ac.bd/notice/1993?from=all",
+    "foundOn": "https://www.bmu.ac.bd/",
+    "foundAt": "2026-11-06T03:06:11.975Z",
+    "title": "03 Nov 2026 Room Wise Seat Plan for MD, MS Phase-A Residency Program Admission Test March 2027 NEW",
+    "kind": "page",
+    "score": 9,
+    "sameSite": true,
+    "id": "bmu-med:https://www.bmu.ac.bd/notice/1993?from=all",
+    "universityId": "bmu-med",
+    "shortName": "BMU",
+    "downloaded": false
   }
 ]
