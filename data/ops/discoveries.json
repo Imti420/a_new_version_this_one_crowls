@@ -2260,5 +2260,18 @@
     "universityId": "bmu-med",
     "shortName": "BMU",
     "downloaded": false
+  },
+  {
+    "url": "https://www.bmu.ac.bd/notice/1996?from=all",
+    "foundOn": "https://www.bmu.ac.bd/",
+    "foundAt": "2026-11-06T17:12:30.946Z",
+    "title": "06 Nov 2026 Residency Program (MD &amp; MS Phase-A) Admission Test Result - March 2027 NEW",
+    "kind": "page",
+    "score": 9,
+    "sameSite": true,
+    "id": "bmu-med:https://www.bmu.ac.bd/notice/1996?from=all",
+    "universityId": "bmu-med",
+    "shortName": "BMU",
+    "downloaded": false
   }
 ]
