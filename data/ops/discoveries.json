@@ -2273,5 +2273,31 @@
     "universityId": "bmu-med",
     "shortName": "BMU",
     "downloaded": false
+  },
+  {
+    "url": "https://www.rub.ac.bd/assets/files/notice/282_2049.pdf",
+    "foundOn": "https://www.rub.ac.bd/",
+    "foundAt": "2026-11-08T07:59:34.815Z",
+    "title": "ভর্তি বিজ্ঞপ্তি (এমবিএ), ম্যানেজমেন্ট বিভাগ",
+    "kind": "pdf",
+    "score": 15,
+    "sameSite": true,
+    "id": "rub:https://www.rub.ac.bd/assets/files/notice/282_2049.pdf",
+    "universityId": "rub",
+    "shortName": "RUB",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.rub.ac.bd/assets/files/notice/281_2018.pdf",
+    "foundOn": "https://www.rub.ac.bd/",
+    "foundAt": "2026-11-08T07:59:34.815Z",
+    "title": "পুনঃভর্তি বিজ্ঞপ্তি (এমএসএস), সমাজবিজ্ঞান বিভাগ",
+    "kind": "pdf",
+    "score": 15,
+    "sameSite": true,
+    "id": "rub:https://www.rub.ac.bd/assets/files/notice/281_2018.pdf",
+    "universityId": "rub",
+    "shortName": "RUB",
+    "downloaded": false
   }
 ]
