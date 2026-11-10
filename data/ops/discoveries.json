@@ -2325,5 +2325,18 @@
     "universityId": "uap",
     "shortName": "UAP",
     "downloaded": false
+  },
+  {
+    "url": "https://www.uap-bd.edu/admission-test-results/bpharm_f26_10112026.pdf",
+    "foundOn": "https://www.uap-bd.edu/admission_test_results.php",
+    "foundAt": "2026-11-10T18:07:35.469Z",
+    "title": "Pharmacy Bachelor of Pharmacy (B. Pharm Hons.) NEW",
+    "kind": "pdf",
+    "score": 5,
+    "sameSite": true,
+    "id": "uap:https://www.uap-bd.edu/admission-test-results/bpharm_f26_10112026.pdf",
+    "universityId": "uap",
+    "shortName": "UAP",
+    "downloaded": false
   }
 ]
