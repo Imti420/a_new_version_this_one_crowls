@@ -2429,5 +2429,31 @@
     "universityId": "gau",
     "shortName": "GAU",
     "downloaded": false
+  },
+  {
+    "url": "https://www.ru.ac.bd/wp-content/uploads/2026/11/Admission-Notice-Website-2026-2027.pdf",
+    "foundOn": "https://www.ru.ac.bd/",
+    "foundAt": "2026-11-14T08:10:50.401Z",
+    "title": "",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "ru:https://www.ru.ac.bd/wp-content/uploads/2026/11/Admission-Notice-Website-2026-2027.pdf",
+    "universityId": "ru",
+    "shortName": "RU",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.ru.ac.bd/blog/notice/%e0%a7%a8%e0%a7%a6%e0%a7%a8%e0%a7%ac-%e0%a7%a8%e0%a7%a6%e0%a7%a8%e0%a7%ad-%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a6%ac%e0%a6%b0%e0%a7%8d%e0%a6%b7%e0%a7%87-%e0%a6%aa%e0%a7%8d",
+    "foundOn": "https://www.ru.ac.bd/",
+    "foundAt": "2026-11-14T08:10:55.980Z",
+    "title": "২০২৬-২০২৭ শিক্ষাবর্ষে প্রথমবর্ষ স্নাতক/স্নাতক (সম্মান) শ্রেণিতে ভর্তি আবেদনের বিজ্ঞপ্তি",
+    "kind": "page",
+    "score": 8,
+    "sameSite": true,
+    "id": "ru:https://www.ru.ac.bd/blog/notice/%e0%a7%a8%e0%a7%a6%e0%a7%a8%e0%a7%ac-%e0%a7%a8%e0%a7%a6%e0%a7%a8%e0%a7%ad-%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a6%ac%e0%a6%",
+    "universityId": "ru",
+    "shortName": "RU",
+    "downloaded": false
   }
 ]
