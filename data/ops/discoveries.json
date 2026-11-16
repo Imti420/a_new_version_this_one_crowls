@@ -2455,5 +2455,18 @@
     "universityId": "ru",
     "shortName": "RU",
     "downloaded": false
+  },
+  {
+    "url": "https://forms.bmu.ac.bd/result_res_27",
+    "foundOn": "https://www.bmu.ac.bd/",
+    "foundAt": "2026-11-16T07:59:52.093Z",
+    "title": "Result of admission test of Phase-A Residency Program (March 2027)",
+    "kind": "page",
+    "score": 8,
+    "sameSite": true,
+    "id": "bmu-med:https://forms.bmu.ac.bd/result_res_27",
+    "universityId": "bmu-med",
+    "shortName": "BMU",
+    "downloaded": false
   }
 ]
