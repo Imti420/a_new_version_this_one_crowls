@@ -2,18 +2,18 @@
   "version": 1,
   "sources": {
     "site-du": {
-      "contentHash": "55062f5668ac348f3f275f86ed0e0cd3d36bd89151eba5eb52f0f250f6ae3331",
+      "contentHash": "e9f269533dc94801ae22e8681b885699cbb15b605d1884b998e2619bdc785e55",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.du.ac.bd/"
     },
     "site-ru": {
-      "contentHash": "b1e1c2e20ffbad40f8f2070c4c03d1e6271cd7f4206774b5d51f1a6a81c9eb21",
+      "contentHash": "72170f158b9984a9e32c93f8e02b936929b46dc623a5583d885cbde44808d043",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.ru.ac.bd/"
     },
@@ -21,7 +21,7 @@
       "contentHash": "c165f64fbf09288e07ab086db930785eb4a33aba556ad038bf2cd4048384f525",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.juniv.edu/"
     },
@@ -29,15 +29,15 @@
       "contentHash": "ec1540578de9a06e10131bdd85ec19a039ba6554b2f56b41a7f2b3a237535192",
       "etag": "\"ab815080246fcf18c8a147094e885586\"",
       "lastModified": "Mon, 02 Nov 2026 22:32:25 GMT",
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 304,
       "finalUrl": "https://www.ub.ac.bd/"
     },
     "site-buet": {
       "contentHash": "ec2d0db0c33330d0bcde5363921798f24c1aab257940bcdc303f320c25aa89ca",
-      "etag": "\"2f3378c4245dd1:0\"",
+      "etag": "\"8011e8c3245dd1:0\"",
       "lastModified": "Tue, 15 Sep 2026 11:10:07 GMT",
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.buet.ac.bd/web/"
     },
@@ -53,7 +53,7 @@
       "contentHash": "86eb3bb14c47445f5744a3592fa080fcfcafb7016e8f17a0ca11842ffd990427",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.nstu.edu.bd/"
     },
@@ -61,15 +61,15 @@
       "contentHash": "0120cc73d76288829e84b76f00c4982f0f718d5f8fd2f0e8cf6e52e5adcabb1e",
       "etag": "\"544ef-p+kJZbKRVwpbk9tKYKmhx2h+5HI\"",
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 304,
       "finalUrl": "https://www.just.edu.bd/"
     },
     "site-pust": {
-      "contentHash": "7db911e2e36a4b70bb56da7e08501d5c534d78a15a43d6c25a2d41ea87aee8e8",
+      "contentHash": "b3ace8dd84decd4b5db13d0500dfd1fd05f222da4a47917bad75e43eac909f76",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://pust.ac.bd/"
     },
@@ -77,7 +77,7 @@
       "contentHash": "fa81190f2ae77e01cb476e0433c2b8e6886cff0c8e523ae01e3eb69134e86a33",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.cstu.ac.bd/"
     },
@@ -85,15 +85,15 @@
       "contentHash": "c815bcf4e6623625fbbc60bc1f3a41bff4bfcacd02f95bcc67b76ee568a58985",
       "etag": "\"k8m458y2ex16od\"",
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.sstu.ac.bd/"
     },
     "site-prstu": {
-      "contentHash": "0912f8002305247be76c0c80133205e1c52a2e7114008c467a93cf4cfecd4ef4",
+      "contentHash": "1b55a5c98f078e068ca887a3cdac65651916b115b486741834ae1c82ffbd50bb",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.prstu.ac.bd/"
     },
@@ -114,58 +114,58 @@
       "finalUrl": "https://www.kuriau.edu.bd/"
     },
     "site-bmu-med": {
-      "contentHash": "b333bbd32260779c250d0aa01009664a91cb887da1b97cf24ac9596c7537ccf9",
+      "contentHash": "0378d12d6c7fb9b57fe79a46b71a61e056e0647a9dd61a9198b7a7fb93eaa773",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.bmu.ac.bd/"
     },
     "site-bup": {
-      "contentHash": "8324450f4e923301ac2c6c54ac4f519caf4093e6d828ae9be238e9fd99a67868",
+      "contentHash": "fa05460d4cafa6abb9624ae9e49c174c23b134b6bea53c79d6b23aaa3ff6a8be",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.bup.edu.bd/"
     },
     "site-maru": {
-      "contentHash": "cbc29188773a1addd8a3ceca5f3785bd330e74ecd01ab918fcb3f46878c3e8f5",
-      "etag": "\"16ggpits8jmd0op\"",
+      "contentHash": "03277172c5d7a443a5de2c071b698f5d58d3ae989a08b538af12dc190cadcfa4",
+      "etag": "\"g8fx6sdcbad0o3\"",
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://bmu.edu.bd/"
     },
     "site-iut": {
-      "contentHash": "381864b275c79ad49956a4bbb571649beec514f0a11dfdce0a1bbcd0f4eeee51",
+      "contentHash": "9843000d7244466363b905c318428445c7fd4325cf8e903d09dab067958745cf",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.iutoic-dhaka.edu/"
     },
     "site-aust": {
-      "contentHash": "fe4e664f3e3c83f2edcb3f0cb7c75f6321d741fee6323d4b192a95c0e83dd14b",
+      "contentHash": "6df6461c317c7673686f98e9609f2356f7f9c0045c9f7438feb1577e4805d2fd",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.aust.edu/"
     },
     "site-aiub": {
-      "contentHash": "440856d2bd6f9644ffd3eb56a914ca6c049befd03d1b3bd1a07ecb018edfaa5a",
+      "contentHash": "311f4e9e903f43038e9270c10b71815a3a46d1bb3aca630020e0ac4c219d9e89",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.aiub.edu/"
     },
     "site-ewu": {
-      "contentHash": "b76c22b8dde3d2e5de949bc71ce0250ca9dd41ceaa197bb80bd6051e374416d1",
+      "contentHash": "8a1226db65bc2ea49ff89f5aac3b4cf450f94e0609e7abab66d7d3501e124ad8",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.ewubd.edu/"
     },
@@ -173,7 +173,7 @@
       "contentHash": "f73eb4094eba994e1f14da17c8dc847476465befc8be0e1f52dd89da061a5c04",
       "etag": "\"z8hjewmoxl1dco\"",
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://daffodilvarsity.edu.bd/"
     },
@@ -181,31 +181,31 @@
       "contentHash": "b89e352d79017562a20c082254d87e39592f79b2361eda09e267652a226bb17d",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.uap-bd.edu/"
     },
     "site-ulab": {
-      "contentHash": "6c8400775e0e89d8905185aed6443ae663b0c407686c402458e0dd939c6144be",
+      "contentHash": "6f18b65a70be41d5df180956f568a90d7f437b4368d057dd51b28c08556c8e9d",
       "etag": null,
-      "lastModified": "Tue, 17 Nov 2026 05:55:12 GMT",
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "lastModified": "Tue, 17 Nov 2026 20:11:23 GMT",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://ulab.edu.bd/"
     },
     "site-iubat": {
-      "contentHash": "6a2d0a9953385a752898336bd2ce42f23041536705b75ed6c9788ef00ebe7786",
+      "contentHash": "c46851f8bebd4abaf107d5d2daee937f8983b38745b5b821a757f3a6db1984af",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://iubat.edu/"
     },
     "site-iiuc": {
-      "contentHash": "a55a775bdf420d620dc64c0c5b528b520e53c5c0e8cbdc5fab3243d85b248551",
+      "contentHash": "26a57fa6937be5ba0558e36625c340918f2b6dab1f3e6dbea4e338fbbfca33a8",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.iiuc.ac.bd/"
     },
@@ -213,15 +213,15 @@
       "contentHash": "ec86eef2eef7e552659f09b07346f0d06ff4077584f14d74099894870ec705aa",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://uits.ac.bd/"
     },
     "site-puc": {
-      "contentHash": "24932f24e04477a49e79a131aae905527eab239c39d71ec38f4b37307a4fce90",
+      "contentHash": "5a219bc58b67f87f11b6c5ddaa78df9396feb554c802fe56a680a11638542422",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.puc.ac.bd/"
     },
@@ -234,18 +234,18 @@
       "finalUrl": "https://lus.ac.bd/"
     },
     "site-eastern": {
-      "contentHash": "3dba3bbdab812359a374e7ecc69a689ff0b86431ab8c78f10dcc4ed90bf82cec",
+      "contentHash": "7444e0982a4c0e12f17c29b681f5d54513baef93e2ad655e11e0412b9e80b1b8",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.easternuni.edu.bd/"
     },
     "site-baust": {
-      "contentHash": "11d08f311ade59866df500a43a9306439bec9475a8b627dfc3a05b9ea27d12fe",
+      "contentHash": "5624b04edb9149843b3ebc784076b9ab9b6b05d4ccc1d6a7d7f68c394a8ba896",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://baust.edu.bd/"
     },
@@ -253,7 +253,7 @@
       "contentHash": "f34393de5be7e499bcf6c53cfbb6332f438cbfd511cf4bafb3f149158aec8d4f",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.stamforduniversity.edu.bd/"
     },
@@ -266,50 +266,50 @@
       "finalUrl": "https://dghs.gov.bd/"
     },
     "site-iu": {
-      "contentHash": "85af0afd8a9684211ade0bfdaed0c3883eb10a491d916a6c9ea9bfa3545514b3",
+      "contentHash": "4f93a0525a5bc72e1be68ede194ce25ba71bf9e9cbc1b7f35ee3e48f17ecbbf9",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.iu.ac.bd/"
     },
     "site-jnu": {
-      "contentHash": "6380adc7c32eb221d1d0b810a67782493f7785517ae7cef4e220626de6c89f5c",
+      "contentHash": "f91b80d273eec528ab286367eec54b33a72bbe47f13e572e59d66dae5a53d3a8",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.jnu.ac.bd/"
     },
     "site-cou": {
-      "contentHash": "f8a4f7b34d79fc44a2089c4cf599aa40779c742a43eaf1c102200df115a5b672",
+      "contentHash": "4506195db49a43a3dd0701f18a4c1a941d1f9bb8d5f6b77164fa01a7d4c368fc",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.cou.ac.bd/"
     },
     "site-jkkniu": {
-      "contentHash": "f8a3d4cebeb8407094e45f115744b41278d0d821c3cda718c673163eabb073da",
+      "contentHash": "d5c04c61a8e6ecf02246b7f6cbfc6bc5321a0996395b5275910186058df6eeba",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.jkkniu.edu.bd/"
     },
     "site-brur": {
-      "contentHash": "8d945de8bb7bbabae734580790e21807a238328768ebba359963f2314a2bccb5",
+      "contentHash": "d3856c581097cac963d09d3ae1a700b48ea260df30288cdc36077456c441cf04",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.brur.ac.bd/"
     },
     "site-bu": {
-      "contentHash": "8db24d3a5c844d613063eb7d70bdce23cab766314ff93e12f8f6dd3f0a7b8fce",
+      "contentHash": "72b7a878399643355a7208ee9b8e22be0db40118f352774e37896ef923558833",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.bu.ac.bd/"
     },
@@ -317,47 +317,47 @@
       "contentHash": "b4027f8c0e2d48af12ccb4634c0dff2dda95cada3b8790f1982eab5fe518fe36",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.rub.ac.bd/"
     },
     "site-neu": {
-      "contentHash": "66a2de553668300fa047aa6436b7251af2d875d748030110934f6f66e5dc7448",
+      "contentHash": "079305f9bc77c18784cc6a151bb8996746e112373d2f9246342be8b2a9e6523d",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://neu.ac.bd/"
     },
     "site-ruet": {
-      "contentHash": "38b5c1a78bc99c81baa529679d73d452aa2121f3f3aac1f86604c90e81f2f0ef",
+      "contentHash": "e37bb0d45d36a21c9e311ea8b6a74028a880242bce47e237459f57fa50f1cb87",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.ruet.ac.bd/"
     },
     "site-duet": {
-      "contentHash": "d332e14a3892fa9dcbf370a7f6abab802c3f24658eab0486835bcb1c539c775a",
+      "contentHash": "0cdec7c38e3405f9f30177131f17a1b333d6082b9949f7e830ccbe9b6c4d8d1c",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.duet.ac.bd/"
     },
     "site-hstu": {
-      "contentHash": "1a2d7b7724a8e5e9b1973efac141e9531efca185a35b4147b57c77cad3cc9b54",
+      "contentHash": "07feae8c624c156abd226e5a2d347702ea79bb10ea272a84b43db6288967951f",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.hstu.ac.bd/"
     },
     "site-pstu": {
-      "contentHash": "b4d835a2b7fcf83bf7e74408484c3f8bb06d492ec95e23d83c866d5100b5762a",
+      "contentHash": "59a99a586ec7c3cc7ac1b40f66d28e819c90991059108c4f3f048220d220d1bc",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.pstu.ac.bd/"
     },
@@ -365,7 +365,7 @@
       "contentHash": "72433dfa47d8c0cddc7f98536ca3d8785ad3d3185862d378e9a16920568acd45",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://gstu.edu.bd/s/"
     },
@@ -373,31 +373,31 @@
       "contentHash": "dffab08f149ff9da501cd293f1117680e50af622b0e3a082cf7fc09093697dec",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://jstu.ac.bd/"
     },
     "site-gau": {
-      "contentHash": "93932841422882e369c69f5a0260e79c1885c924e94210c044e22dc46c220543",
+      "contentHash": "ba017edede89f97a9e46315368e4daef1c15aaf141b8821d5691618bbcf7dd7a",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://gau.edu.bd/"
     },
     "site-sau": {
-      "contentHash": "1d76a75f19c29c406773061dc8f675f02557531ad521022eb53d528433618f7b",
+      "contentHash": "2f4078770a772f511b343948a81699b1fd1d7781d06a87814258beaf4f587d67",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.sau.edu.bd/"
     },
     "site-sylau": {
-      "contentHash": "ad9a6071acba96eb53ed5f698676aac78914b0f823ea35fb94b8bd0f88d63377",
+      "contentHash": "5901e53a4c7edb2bdb95f7691e0f2e7c158bd3b0770d8a25266586c64f505fe6",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.sau.ac.bd/"
     },
@@ -405,7 +405,7 @@
       "contentHash": "1a9792278530c3bf4047a2889f624f0551c823c456297b29f009b8c71b5f2d15",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.hau.ac.bd/"
     },
@@ -413,39 +413,39 @@
       "contentHash": "60e2990d33196e966580cb8f92c1278b63b357435d08b92eda15476877d2b849",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.cmu.edu.bd/"
     },
     "site-aaub": {
-      "contentHash": "10cfd7a83175a92daef9afcc9c0449e805cb2abe8ed52b6a2995179dddbe4b1c",
+      "contentHash": "ab81f789c560cebfe04a4caa7cbc09bf1daa941c6864b25760df76c460a5ec1d",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.aaub.edu.bd/"
     },
     "site-bou": {
-      "contentHash": "3f5dc1abc8cd8b678623426c9937cc156b81c5c57abbbb438756c0c95348f824",
+      "contentHash": "410e25aea5687bd86223c99803bed1a62e456e6015ebd3b677b540a5b19644aa",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.bou.ac.bd/"
     },
     "site-uiu": {
-      "contentHash": "6c64e47c6012ecd30c79525f8caea8f38ae342fe4eea75481e199b44685508a3",
+      "contentHash": "d1ab8af45def8f640ce5f4c7045518d2a09c99337c1c0de0b331b1f386404dc5",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.uiu.ac.bd/"
     },
     "site-bubt": {
-      "contentHash": "38966e42b23b9c604dca972ee535718e89991ae9b855c6cbe9ff0cc77b5407ee",
+      "contentHash": "5f932725ac2e2598ef1ff4c3d4f508a7e6333444ea494ae0f02cb52796958fe7",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.bubt.edu.bd/"
     },
@@ -453,23 +453,23 @@
       "contentHash": "31c534cf162dcdc3dfbd6ac75f85be0afc35a34fc253d3c660d98b4b353e0b6c",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://green.edu.bd/"
     },
     "site-rmu": {
-      "contentHash": "d7391eea3ea15f94fe33bd46c7bf035456a3ec7b6a245f99f50c2ce4b4900629",
+      "contentHash": "02f698d9a4f944edd5565015025d20304feee22c2917ae95f2d3192f24f62c0b",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://rmu.ac.bd/"
     },
     "site-butex": {
-      "contentHash": "51a31f5794e5c1083ba983146760a1b77602d7738034c0d23fb48e2b16dfa38e",
+      "contentHash": "203ab39b8dbeeb1770ce7a4544dc65e40d8736b2f2c731f85f35d6d3ec2e7362",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-16T21:29:39.281Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.butex.edu.bd/homepage/"
     },
@@ -477,7 +477,7 @@
       "contentHash": "2ce1d3f1c2339cd9dd8c3405debc65ce93e1a07e51544b5149ee23f59c30a18d",
       "etag": null,
       "lastModified": null,
-      "checkedAt": "2026-11-17T05:59:07.262Z",
+      "checkedAt": "2026-11-17T20:19:57.474Z",
       "httpStatus": 200,
       "finalUrl": "https://www.uftb.ac.bd/"
     }
