@@ -2481,5 +2481,18 @@
     "universityId": "uftb",
     "shortName": "UFTB",
     "downloaded": false
+  },
+  {
+    "url": "https://forms.bmu.ac.bd/result_nonres_25",
+    "foundOn": "https://www.bmu.ac.bd/",
+    "foundAt": "2026-11-18T23:38:04.455Z",
+    "title": "Admission Test Result for Non Residency Program July, 2025",
+    "kind": "page",
+    "score": 8,
+    "sameSite": true,
+    "id": "bmu-med:https://forms.bmu.ac.bd/result_nonres_25",
+    "universityId": "bmu-med",
+    "shortName": "BMU",
+    "downloaded": false
   }
 ]
