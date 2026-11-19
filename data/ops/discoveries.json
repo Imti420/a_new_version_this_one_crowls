@@ -2494,5 +2494,18 @@
     "universityId": "bmu-med",
     "shortName": "BMU",
     "downloaded": false
+  },
+  {
+    "url": "https://baust.edu.bd/archive/notices/ofis-ades-posakbidhi-dress-code-onuzazee-seetkaleen-winter-posak-pridhan-prsngge-sngsodhit",
+    "foundOn": "https://baust.edu.bd/",
+    "foundAt": "2026-11-19T04:26:25.700Z",
+    "title": "অফিস আদেশ - পোশাকবিধি (DRESS CODE) অনুযায়ী শীতকালীন (WINTER) পোশাক পরিধান প্রসংগে (সংশোধিত)",
+    "kind": "page",
+    "score": 5,
+    "sameSite": true,
+    "id": "baust:https://baust.edu.bd/archive/notices/ofis-ades-posakbidhi-dress-code-onuzazee-seetkaleen-winter-posak-pridhan-prsngge-sngsodhit",
+    "universityId": "baust",
+    "shortName": "BAUST",
+    "downloaded": false
   }
 ]
