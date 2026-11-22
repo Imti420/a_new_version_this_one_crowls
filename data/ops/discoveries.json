@@ -2533,5 +2533,18 @@
     "universityId": "gstu",
     "shortName": "GSTU",
     "downloaded": false
+  },
+  {
+    "url": "https://www.butex.edu.bd/wp-content/uploads/2026/11/20261119_%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BF.pdf",
+    "foundOn": "https://www.butex.edu.bd/admissions/",
+    "foundAt": "2026-11-22T15:41:23.001Z",
+    "title": "BSc in Textile Engineering Undergraduate Admission 2026-27 Circular Published",
+    "kind": "pdf",
+    "score": 15,
+    "sameSite": true,
+    "id": "butex:https://www.butex.edu.bd/wp-content/uploads/2026/11/20261119_%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%AA%E0%A7%8D%E0%",
+    "universityId": "butex",
+    "shortName": "BUTEX",
+    "downloaded": false
   }
 ]
