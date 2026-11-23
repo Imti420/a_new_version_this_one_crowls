@@ -2546,5 +2546,31 @@
     "universityId": "butex",
     "shortName": "BUTEX",
     "downloaded": false
+  },
+  {
+    "url": "https://www.ru.ac.bd/wp-content/uploads/2026/11/pgdad.pdf",
+    "foundOn": "https://www.ru.ac.bd/blog/notice/%e0%a6%aa%e0%a6%bf%e0%a6%9c%e0%a6%bf%e0%a6%a1%e0%a6%bf%e0%a6%8f%e0%a6%a1-%e0%a6%ac%e0%a6%bf-%e0%a6%8f%e0%a6%a1-%e0%a6%b8%e0%a6%ae%e0%a6%ae%e0%a6%be%e0%a6%a8-%e0%a7%a8%e0%a7%af-%e0%a6%a4%e0%a6%ae/",
+    "foundAt": "2026-11-23T09:55:01.506Z",
+    "title": "View / Download Circular",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "ru:https://www.ru.ac.bd/wp-content/uploads/2026/11/pgdad.pdf",
+    "universityId": "ru",
+    "shortName": "RU",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.ru.ac.bd/blog/notice/%e0%a6%aa%e0%a6%bf%e0%a6%9c%e0%a6%bf%e0%a6%a1%e0%a6%bf%e0%a6%8f%e0%a6%a1-%e0%a6%ac%e0%a6%bf-%e0%a6%8f%e0%a6%a1-%e0%a6%b8%e0%a6%ae%e0%a6%ae%e0%a6%be%e0%a6%a8-%e0%a7%a8%e0%a7%af-%e0%a6%a4%e0%a6%ae",
+    "foundOn": "https://www.ru.ac.bd/",
+    "foundAt": "2026-11-23T09:55:01.507Z",
+    "title": "পিজিডিএড (বি এড সমমান)-২৯ তম ব্যাচ (সেশন: জানুয়ার’ ২০২৭-ডিসেম্বর’ ২০২৭) ও এমএড (সান্ধ্যকালীন) ১০ তম ব্যাচ (সেশন: জানুয়ার’ ২০২৭-ডিসেম্বর’ ২০২৭) প্রোগ্রামে ভর্তি বিজ্ঞপ্তি",
+    "kind": "page",
+    "score": 13,
+    "sameSite": true,
+    "id": "ru:https://www.ru.ac.bd/blog/notice/%e0%a6%aa%e0%a6%bf%e0%a6%9c%e0%a6%bf%e0%a6%a1%e0%a6%bf%e0%a6%8f%e0%a6%a1-%e0%a6%ac%e0%a6%bf-%e0%a6%8f%e0%a6%a1-%e0%a6%b8%e0%a6%ae%e0%a6%ae%e0%a6",
+    "universityId": "ru",
+    "shortName": "RU",
+    "downloaded": false
   }
 ]
