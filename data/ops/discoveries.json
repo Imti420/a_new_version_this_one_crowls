@@ -2572,5 +2572,31 @@
     "universityId": "ru",
     "shortName": "RU",
     "downloaded": false
+  },
+  {
+    "url": "https://www.uftb.ac.bd/uploads/topics/17955791289748.pdf",
+    "foundOn": "https://www.uftb.ac.bd/",
+    "foundAt": "2026-11-25T09:23:43.225Z",
+    "title": "স্নাতকোত্তর প্রোগ্রামের ২০২৫-২৬ সেশনে ভর্তি বিজ্ঞপ্তি",
+    "kind": "pdf",
+    "score": 14,
+    "sameSite": true,
+    "id": "uftb:https://www.uftb.ac.bd/uploads/topics/17955791289748.pdf",
+    "universityId": "uftb",
+    "shortName": "UFTB",
+    "downloaded": false
+  },
+  {
+    "url": "https://admission.aust.edu/feed",
+    "foundOn": "http://admission.aust.edu/notice/",
+    "foundAt": "2026-11-25T09:28:12.301Z",
+    "title": "RSS or Atom feed",
+    "kind": "feed",
+    "score": 4,
+    "sameSite": true,
+    "id": "aust:https://admission.aust.edu/feed",
+    "universityId": "aust",
+    "shortName": "AUST",
+    "downloaded": false
   }
 ]
